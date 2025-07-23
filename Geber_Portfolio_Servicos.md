@@ -20,7 +20,7 @@ Desenvolvedor Java com mais de 10 anos de experiência em sistemas corporativos,
 
 ## 🛠 Tecnologias
 
-Java, Spring Boot, REST, SOAP, Angular, Docker, Jenkins, Git, PostgreSQL, Oracle, CI/CD, JUnit, Mockito, AWS, Elasticsearch, Grafana...
+Java, Spring Boot, REST, SOAP, Angular, Docker, Jenkins, Git, PostgreSQL, Oracle, CI/CD, JUnit, Mockito, AWS...
 
 ---
 
